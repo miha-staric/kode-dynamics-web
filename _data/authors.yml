@@ -1,0 +1,22 @@
+# /_data/authors.yml
+
+Miha Starič:
+  name        : "Miha Starič"
+  bio         : "Senior Software Engineer & Architect"
+  avatar      : "/assets/images/mihastaric.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:miha@staric.org"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+38651320406"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/miha-staric"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-alt"
+      url: "https://www.github.com/miha-staric"
+    - label: "Codeberg"
+      icon: "fas fa-fw fa-mountain"
+      url: "https://codeberg.org/miha-staric"

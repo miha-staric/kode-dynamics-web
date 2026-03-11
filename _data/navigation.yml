@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Services"
+    url: /services/
+  - title: "About me"
+    url: /about/
+#  - title: "Case Studies"
+#    url: /case-studies/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contacts"
+    url: /contacts/
