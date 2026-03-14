@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ⌨️ Kode Dynamics
+title: Kode Dynamics
 subtitle: IT storitve, Miha Starič s.p.
+logo: /assets/icons/logo.png
 email: miha@staric.org
 description: >- # this means to ignore newlines until "baseurl:"
   Kode Dynamics Website
