@@ -8,7 +8,7 @@ author: Miha Starič
 
 <br/>
 
-Kode Dynamics, IT storitve, Miha Starič s.p.
+<img src="{{ site.logo }}" style="height: 1em; vertical-align: middle;"/> Kode Dynamics, IT storitve, Miha Starič s.p.
 
 ✉️ Email:
 [miha@staric.org](email:miha@staric.org)
