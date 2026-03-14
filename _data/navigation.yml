@@ -6,7 +6,7 @@ main:
   - title: "About me"
     url: /about/
 #  - title: "Case Studies"
-#    url: /case-studies/
+#    url: /casestudies/
   - title: "Blog"
     url: /blog/
   - title: "Contacts"
