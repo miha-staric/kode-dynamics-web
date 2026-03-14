@@ -13,7 +13,7 @@ header:
     - label: "About me"
       url: "/about/"
 
-excerpt: "**Senior Freelance Software Engineer & Architect**<br/>
+excerpt: "**Freelance Senior Software Engineer & Architect**<br/>
 
 I help companies design and build reliable cloud systems. Specialized in backend development and architecture, distributed systems, and DevOps engineering. "
 feature_row1:
