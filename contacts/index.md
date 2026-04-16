@@ -11,7 +11,7 @@ author: Miha Starič
 <img src="{{ site.logo }}" style="height: 1em; vertical-align: middle;"/> Kode Dynamics, IT storitve, Miha Starič s.p.
 
 ✉️ Email:
-[miha@staric.org](email:miha@staric.org)
+[miha@kodedynamics.eu](email:miha@kodedynamics.eu)
 
 ☎️  Telephone:
 [+386 51 320 406](tel:+38651320406)
